@@ -1,0 +1,12 @@
+{
+  "name": "dragAndDrop",
+  "displayName": "dragAndDrop",
+  "expo": {
+    "name": "dragAndDrop",
+    "slug": "dragAndDrop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
